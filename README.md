@@ -100,15 +100,15 @@ Ir.predict([[1,80,1,90,1,1,90,1,0,85,1,85]])
 
 2. Salary data:
 
-   <img width="415" alt="image" src="https://github.com/TejaswiniGugananthan/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/121222763/f50388da-e919-488a-a235-cf77ed0c431f">
+<img width="415" alt="image" src="https://github.com/TejaswiniGugananthan/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/121222763/f50388da-e919-488a-a235-cf77ed0c431f">
 
 3. Checking the null function:
 
-  <img width="86" alt="image" src="https://github.com/TejaswiniGugananthan/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/121222763/bae81826-39b0-4bd6-8c14-819db6b721c7">
+<img width="86" alt="image" src="https://github.com/TejaswiniGugananthan/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/121222763/bae81826-39b0-4bd6-8c14-819db6b721c7">
 
 4. Data duplicate:
    
-   <img width="20" alt="image" src="https://github.com/TejaswiniGugananthan/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/121222763/288f391d-1daa-4645-bb29-cbf33343910d">
+<img width="20" alt="image" src="https://github.com/TejaswiniGugananthan/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/121222763/288f391d-1daa-4645-bb29-cbf33343910d">
 
 5.Print data:
 
@@ -116,15 +116,15 @@ Ir.predict([[1,80,1,90,1,1,90,1,0,85,1,85]])
 
 6. Data status:
    
-   <img width="164" alt="image" src="https://github.com/TejaswiniGugananthan/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/121222763/ceda8e70-fe59-4217-9b60-1015d8d539ce">
+<img width="164" alt="image" src="https://github.com/TejaswiniGugananthan/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/121222763/ceda8e70-fe59-4217-9b60-1015d8d539ce">
 
 7. Y-Prediction array:
    
-   <img width="295" alt="image" src="https://github.com/TejaswiniGugananthan/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/121222763/16628e30-08c6-40e0-9d03-25093f9b7375">
+<img width="295" alt="image" src="https://github.com/TejaswiniGugananthan/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/121222763/16628e30-08c6-40e0-9d03-25093f9b7375">
 
- 8.Accuray value:
+8. Accuray value:
  
- <img width="187" alt="image" src="https://github.com/TejaswiniGugananthan/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/121222763/0613b0fc-8649-4210-b844-dddd9c71c91b">
+<img width="187" alt="image" src="https://github.com/TejaswiniGugananthan/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/121222763/0613b0fc-8649-4210-b844-dddd9c71c91b">
 
 9. Confusion matrix:
     
@@ -132,11 +132,11 @@ Ir.predict([[1,80,1,90,1,1,90,1,0,85,1,85]])
 
 10. Classification Report:
 
-    <img width="226" alt="image" src="https://github.com/TejaswiniGugananthan/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/121222763/1a390bd9-b1bf-4cf5-9e6d-410831ada8e9">
+<img width="226" alt="image" src="https://github.com/TejaswiniGugananthan/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/121222763/1a390bd9-b1bf-4cf5-9e6d-410831ada8e9">
 
 11. Prediction of LR:
 
-    <img width="503" alt="image" src="https://github.com/TejaswiniGugananthan/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/121222763/a71e42c6-55b8-4f6c-b1db-82893d8e9f68">
+<img width="503" alt="image" src="https://github.com/TejaswiniGugananthan/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/121222763/a71e42c6-55b8-4f6c-b1db-82893d8e9f68">
 
 
 ## Result:
